@@ -1,6 +1,5 @@
 import numpy as np
 
-
 file_name = 'lab1_2.txt' 
 
 matrix = np.loadtxt(file_name)
